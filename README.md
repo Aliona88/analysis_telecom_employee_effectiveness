@@ -23,4 +23,6 @@ In terms of **Project Implementation**, decomposed project stages are performed.
 
 ***Project Dashboard*** is published on Tableau Public. [Link to the dashboard](https://public.tableau.com/views/Telecomoperatorsefficiency/TelecomOperatorsEfficiency?:language=en&:display_count=y&:origin=viz_share_link)
 
+Sometimes GitHub fails to render the *.ipynb notebooks and you get the message "Sorry, something went wrong. Reload?" when trying to view a *.ipynb on a GitHub page. 
 
+[You can use a workaround.](https://github.com/Aliona88/analysis_telecom_employee_effectiveness/blob/master/if_notebook_not_loaded.md#a-workaround)
