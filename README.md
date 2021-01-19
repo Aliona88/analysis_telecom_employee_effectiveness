@@ -7,7 +7,7 @@ For these purposes, the company is developing a new feature that will provide su
 
 This repository is an attempt to answer who are inefficient operators and by what criteria to define them. 
 
-The project consists of 4 stages: 
+The project consists of 4 parts: 
 * Project Decomposition
 * Project Implementation
 * Project Presentation
@@ -19,10 +19,10 @@ Decomposition is a highly recommended step in data analytics projects that provi
 
 In terms of **Project Implementation**, decomposed project stages are performed. However, at the same time, the data analysis process is flexible, which means that during data preprocessing and detailed exploratory data analysis, new results can change planned steps.
 
-***Project Presentation*** is published on Google Drive. [Link to the presentation](https://drive.google.com/file/d/1k7qah1ILyRBgRSIR5RXV4E0vntf50FLc/view?usp=sharing)
+**Project Presentation** is published on Google Drive. [Link to the presentation](https://drive.google.com/file/d/1k7qah1ILyRBgRSIR5RXV4E0vntf50FLc/view?usp=sharing)
 
-***Project Dashboard*** is published on Tableau Public. [Link to the dashboard](https://public.tableau.com/views/Telecomoperatorsefficiency/TelecomOperatorsEfficiency?:language=en&:display_count=y&:origin=viz_share_link)
+**Project Dashboard** is published on Tableau Public. [Link to the dashboard](https://public.tableau.com/views/Telecomoperatorsefficiency/TelecomOperatorsEfficiency?:language=en&:display_count=y&:origin=viz_share_link)
 
-Sometimes GitHub fails to render the *.ipynb notebooks and you get the message "Sorry, something went wrong. Reload?" when trying to view a *.ipynb on a GitHub page. 
+**Please, pay attention:**
 
-[You can use a workaround.](https://github.com/Aliona88/analysis_telecom_employee_effectiveness/blob/master/if_notebook_not_loaded.md#a-workaround)
+Sometimes GitHub fails to render the *.ipynb notebooks and you get the message *"Sorry, something went wrong. Reload?"* when trying to view a *.ipynb on a GitHub page. In this case, [you can use a workaround.](https://github.com/Aliona88/analysis_telecom_employee_effectiveness/blob/master/if_notebook_not_loaded.md#a-workaround)
