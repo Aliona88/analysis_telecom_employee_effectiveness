@@ -1,7 +1,5 @@
 # Analysis of the operator's efficiency in a virtual communication company.
 
-*The analytical task and dataset used in this project are dummies. The project was created exclusively for practice.*
-
 **The virtual communications company wants to improve the company's service standards and renegotiate employee agreements.
 For these purposes, the company is developing a new feature that will provide supervisors with information about the least efficient operators.**
 
@@ -19,10 +17,12 @@ Decomposition is a highly recommended step in data analytics projects that provi
 
 In terms of **Project Implementation**, decomposed project stages are performed. However, at the same time, the data analysis process is flexible, which means that during data preprocessing and detailed exploratory data analysis, new results can change planned steps.
 
-**Project Presentation** is published on Google Drive. [Link to the presentation](https://drive.google.com/file/d/1k7qah1ILyRBgRSIR5RXV4E0vntf50FLc/view?usp=sharing)
+**Project Presentation** is published on Google Drive. [Link to the presentation](https://drive.google.com/file/d/1ErYiXI6F8TWRp-wZeqbTSL9F0GIezDwT/view?usp=sharing)
 
 **Project Dashboard** is published on Tableau Public. [Link to the dashboard](https://public.tableau.com/views/Telecomoperatorsefficiency/TelecomOperatorsEfficiency?:language=en&:display_count=y&:origin=viz_share_link)
 
 **Please, pay attention:**
 
 Sometimes GitHub fails to render the *.ipynb notebooks and you get the message *"Sorry, something went wrong. Reload?"* when trying to view a *.ipynb on a GitHub page. In this case, [you can use a workaround.](https://github.com/Aliona88/analysis_telecom_employee_effectiveness/blob/master/if_notebook_not_loaded.md#a-workaround)
+
+The project was created exclusively for practice.
