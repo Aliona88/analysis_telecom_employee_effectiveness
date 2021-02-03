@@ -1,5 +1,7 @@
 # Analysis of the operator's efficiency in a virtual communication company.
 
+>*Note: this project was created exclusively for the presentation of skills.*
+
 **The virtual communications company wants to improve the company's service standards and renegotiate employee agreements.
 For these purposes, the company is developing a new feature that will provide supervisors with information about the least efficient operators.**
 
@@ -24,5 +26,3 @@ In terms of **Project Implementation**, decomposed project stages are performed.
 **Please, pay attention:**
 
 Sometimes GitHub fails to render the *.ipynb notebooks and you get the message *"Sorry, something went wrong. Reload?"* when trying to view a *.ipynb on a GitHub page. In this case, [you can use a workaround.](https://github.com/Aliona88/analysis_telecom_employee_effectiveness/blob/master/if_notebook_not_loaded.md#a-workaround)
-
-The project was created exclusively for practice.
